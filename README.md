@@ -1,2 +1,3 @@
-Primeiro projeto individual do XP38 [Hacker
-programa da Gama Academy - 
+# Cervejaria Escafandrista 
+
+Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
