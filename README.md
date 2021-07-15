@@ -2,5 +2,5 @@
 
 Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
 
-<img src="/ska.png" alt="Cervejaria Escafandrista"/>
+<img src="/skafan.png" alt="Cervejaria Escafandrista"/>
 
