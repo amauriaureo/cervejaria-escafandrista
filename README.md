@@ -6,7 +6,7 @@ Abaixo da imagem você poderá visualizar algumas etapas utilizadas no Scrum. S�
 [Product Goal](https://github.com/amauriaureo/cervejaria-escafandrista#product-goal) \
 [Product Backlog](https://github.com/amauriaureo/cervejaria-escafandrista#product-backlog) \
 [Sprint Backlog](https://github.com/amauriaureo/cervejaria-escafandrista#sprint-backlog) \
-[Pontuação de cada tarefa e conclusão](https://github.com/amauriaureo/cervejaria-escafandrista#pontua%C3%A7%C3%A3o-e-estimativa-de-conclus%C3%A3o) \
+[Pontuação de cada tarefa e conclusão](https://github.com/amauriaureo/cervejaria-escafandrista#pontua%C3%A7%C3%A3o-e-estimativa-de-conclus%C3%A3o)
 
 
 <img src="/imagens/ska.png" alt="Logo Cervejaria Escafandrista"/>
