@@ -51,14 +51,14 @@ Escolha um ramo de atividade do seu cliente: pode ser uma cervejaria artesanal, 
 
 ## FORMATO DE AVALIAÇÃO PARA O DESAFIO
 
-**SEMANA 01**
+**SEMANA 01** \
 **Entrega: sexta-feira, 16 de julho**
 
 Repositório no Github contendo as sprints do projeto, com cada sprint tendo seu objetivo claro.
 
 Todas as estórias com descrição e estimativa, conforme ensinado no treinamento
 
-**SEMANA 02**
+**SEMANA 02** \
 **Entrega: sexta-feira, 23 de julho**
 
 * Protótipo de página, com layout simples porém navegável. Todos os componentes das páginas deverão ser as aprendidas na aula de bootstrap (usar bootstrap é essencial). O CSS deve ser separado do HTML assim como aprendido em aula, e todos os arquivos devem estar organizados de uma forma que ao baixar o repositório, teremos a capacidade de navegar pelas páginas sem nenhum erro (seja de link quebrado ou algum recurso não carregado na página).
