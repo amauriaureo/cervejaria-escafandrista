@@ -6,7 +6,8 @@ Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
 
 ## Product Goal
 
-**Criar um site de catálogo de produtos que seja responsivo.**
+**Criar um site responsivo de catálogo de produtos.**
+
 
 
 ## Product Backlog
@@ -20,5 +21,29 @@ Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
 * Independente da página que esteja sendo exibida, é necessário ter algum elemento (menu ou um botão) que redirecione para a página com informações institucionais, por exemplo “quem somos”, “contato”.
 
 **Obs:** Depois de definido o escopo do projeto, vamos separar nosso trabalho em estórias e agrupá-las em sprints, sendo que tudo deve ser registrado no github.
+
+
+
+## Sprint Backlog
+
+
+**Tarefa 1 -** Definição do repositório GIT e planejamento das estórias/Sprints para execução da tarefa (estimativa).
+
+**Tarefa 2 -** Coletar conteúdo de comunicação(imagens e textos).
+
+**Tarefa 3 -** HTML
+3.1. Menu de navegação - Header (presente em todas as páginas).
+3.2. Footer (presente em todas as páginas).
+3.3. Páginas:
+a) Principal;
+b) Produtos;
+c) Informações Institucionais.
+OBS: As páginas devem ser navegáveis.
+
+**Tarefa 4 -** Implementar CSS.
+4.1. Trabalhar no Header e no Footer;
+4.2. Estilizar páginas e configurar posição de elementos.
+
+**Tarefa 5 -** Implementar Bootstrap.
 
 
