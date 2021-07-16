@@ -1,6 +1,6 @@
 # Cervejaria Escafandrista 
 
-Primeiro projeto individual do XP38 [Hacker] - Gama Academy. \
+Primeiro projeto individual do XP38 [Hacker] - [Gama Academy](https://www.gama.academy/). \
 Você pode encontrar a descrição do desafio [aqui](https://github.com/amauriaureo/cervejaria-escafandrista/tree/main/DESAFIO-INDIVIDUAL-1). \
 Abaixo da imagem as seguintes etapas estão disponíveis para visualização: 
 * [Product Goal](https://github.com/amauriaureo/cervejaria-escafandrista#product-goal) 
