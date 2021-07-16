@@ -27,29 +27,34 @@ Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
 ## Sprint Backlog
 
 
-**Tarefa 1 -** Definição do repositório GIT e planejamento das estórias/Sprints para execução da tarefa (estimativa).
+### Tarefa 1
+**Definição do repositório GIT e planejamento das estórias/Sprints para execução da tarefa (estimativa).**
 
-**Tarefa 2 -** Coletar conteúdo de comunicação(imagens e textos).
+### Tarefa 2  
+**Coletar conteúdo de comunicação(imagens e textos).**
 
-**Tarefa 3 -** HTML
+### Tarefa 3 
+**HTML**
 * Menu de navegação - Header (presente em todas as páginas).
 * Footer (presente em todas as páginas).
-* Páginas (principal, produtos e informações institucionais).
+* Páginas (principal, produtos e informações institucionais).\
 OBS: As páginas devem ser navegáveis.
 
-**Tarefa 4 -** Implementar CSS.
-4.1. Trabalhar no Header e no Footer;
-4.2. Estilizar páginas e configurar posição de elementos.
+### Tarefa 4 
+**Implementar CSS.**
+* Trabalhar no Header e no Footer.
+* Estilizar páginas e configurar posição de elementos.
 
-**Tarefa 5 -** Implementar Bootstrap.
+### Tarefa 5
+**Implementar Bootstrap.**
 
 
 ## Pontuação e estimativa de conclusão:
 
-Tarefa 1 - 2 pontos - Dia 15 de julho.
-Tarefa 2 - 1 pontos - Dia 15 e 16 de julho.
-Tarefa 3 - 5 pontos - Dia 16 até dia 18 de julho.
-Tarefa 4 - 8 pontos - Dia 17 até dia 20 de julho.
-Tarefa 5 - 13 pontos - Dia 19 até dia 22 de julho.
+* **Tarefa 1** - 2 pontos - Dia 15 de julho.
+* **Tarefa 2** - 1 pontos - Dia 15 e 16 de julho.
+* **Tarefa 3** - 5 pontos - Dia 16 até dia 18 de julho.
+* **Tarefa 4** - 8 pontos - Dia 17 até dia 20 de julho.
+* **Tarefa 5** - 13 pontos - Dia 19 até dia 22 de julho.
 
 
