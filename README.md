@@ -2,7 +2,7 @@
 
 Primeiro projeto individual do treinamento XP38 [Hacker] - Facilitado pela [Gama Academy](https://www.gama.academy/). \
 Você pode encontrar a descrição do desafio [aqui](https://github.com/amauriaureo/cervejaria-escafandrista/tree/main/DESAFIO-INDIVIDUAL-1). \
-Logo abaixo da imagem há uma organização de algumas etapas do Scrum (fiz com base nos estudos oferecidos pelo treinamento). São elas:
+Logo abaixo da imagem há uma organização de algumas etapas do Scrum (fiz com base nas aulas de metodologias ágeis disponíveis no treinamento XP). São elas:
 * [Product Goal](https://github.com/amauriaureo/cervejaria-escafandrista#product-goal) 
 * [Product Backlog](https://github.com/amauriaureo/cervejaria-escafandrista#product-backlog) 
 * [Sprint Backlog](https://github.com/amauriaureo/cervejaria-escafandrista#sprint-backlog) 
