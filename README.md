@@ -1,8 +1,8 @@
 # Cervejaria Escafandrista 
 
 Primeiro projeto individual do XP38 [Hacker] - Gama Academy. \
-Você pode encontrar a descrição do desafio [aqui](https://github.com/amauriaureo/cervejaria-escafandrista/tree/main/DESAFIO-INDIVIDUAL-1). 
-Abaixo da imagem você poderá visualizar algumas etapas utilizadas no Scrum. Sâo elas: \
+Você pode encontrar a descrição do desafio [aqui](https://github.com/amauriaureo/cervejaria-escafandrista/tree/main/DESAFIO-INDIVIDUAL-1). \
+Abaixo da imagem as seguintes etapas estão disponíveis para visualização: 
 * [Product Goal](https://github.com/amauriaureo/cervejaria-escafandrista#product-goal) 
 * [Product Backlog](https://github.com/amauriaureo/cervejaria-escafandrista#product-backlog) 
 * [Sprint Backlog](https://github.com/amauriaureo/cervejaria-escafandrista#sprint-backlog) 
