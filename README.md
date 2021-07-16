@@ -34,10 +34,7 @@ Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
 **Tarefa 3 -** HTML
 * Menu de navegação - Header (presente em todas as páginas).
 * Footer (presente em todas as páginas).
-* Páginas:
-a) Principal;
-b) Produtos;
-c) Informações Institucionais.
+* Páginas (principal, produtos e informações institucionais).
 OBS: As páginas devem ser navegáveis.
 
 **Tarefa 4 -** Implementar CSS.
@@ -45,5 +42,14 @@ OBS: As páginas devem ser navegáveis.
 4.2. Estilizar páginas e configurar posição de elementos.
 
 **Tarefa 5 -** Implementar Bootstrap.
+
+
+## Pontuação e estimativa de conclusão:
+
+Tarefa 1 - 2 pontos - Dia 15 de julho.
+Tarefa 2 - 1 pontos - Dia 15 e 16 de julho.
+Tarefa 3 - 5 pontos - Dia 16 até dia 18 de julho.
+Tarefa 4 - 8 pontos - Dia 17 até dia 20 de julho.
+Tarefa 5 - 13 pontos - Dia 19 até dia 22 de julho.
 
 
