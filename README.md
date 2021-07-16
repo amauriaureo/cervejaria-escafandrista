@@ -59,11 +59,11 @@ OBS: As páginas devem ser navegáveis.
 
 ## Pontuação e estimativa de conclusão:
 
-- [x] **Tarefa 1** - 2 pontos - Dia 15 de julho.
-- [x] **Tarefa 2** - 1 pontos - Dia 15 e 16 de julho.
-- [ ] **Tarefa 3** - 5 pontos - Dia 16 até dia 18 de julho.
-- [ ] **Tarefa 4** - 8 pontos - Dia 17 até dia 20 de julho.
-- [ ] **Tarefa 5** - 13 pontos - Dia 19 até dia 22 de julho.
+- [x] **Tarefa 1** - 2 pontos - 15 de julho.
+- [x] **Tarefa 2** - 1 pontos - 16 de julho.
+- [ ] **Tarefa 3** - 5 pontos - 18 de julho.
+- [ ] **Tarefa 4** - 8 pontos - 20 de julho.
+- [ ] **Tarefa 5** - 13 pontos - 22 de julho.
 
 [topo](https://github.com/amauriaureo/cervejaria-escafandrista#cervejaria-escafandrista)
 
