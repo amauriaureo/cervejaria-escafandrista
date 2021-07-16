@@ -15,7 +15,7 @@ Abaixo da imagem as seguintes etapas estão disponíveis para visualização:
 
 **Criar um site responsivo de catálogo de produtos.**
 
-
+[topo](https://github.com/amauriaureo/cervejaria-escafandrista#cervejaria-escafandrista)
 
 ## Product Backlog
 
@@ -29,7 +29,7 @@ Abaixo da imagem as seguintes etapas estão disponíveis para visualização:
 
 **Obs:** Depois de definido o escopo do projeto, vamos separar nosso trabalho em estórias e agrupá-las em sprints, sendo que tudo deve ser registrado no github.
 
-
+[topo](https://github.com/amauriaureo/cervejaria-escafandrista#cervejaria-escafandrista)
 
 ## Sprint Backlog
 
@@ -55,6 +55,7 @@ OBS: As páginas devem ser navegáveis.
 ### Tarefa 5
 **Implementar Bootstrap.**
 
+[topo](https://github.com/amauriaureo/cervejaria-escafandrista#cervejaria-escafandrista)
 
 ## Pontuação e estimativa de conclusão:
 
@@ -63,5 +64,7 @@ OBS: As páginas devem ser navegáveis.
 - [ ] **Tarefa 3** - 5 pontos - Dia 16 até dia 18 de julho.
 - [ ] **Tarefa 4** - 8 pontos - Dia 17 até dia 20 de julho.
 - [ ] **Tarefa 5** - 13 pontos - Dia 19 até dia 22 de julho.
+
+[topo](https://github.com/amauriaureo/cervejaria-escafandrista#cervejaria-escafandrista)
 
 
