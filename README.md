@@ -32,9 +32,9 @@ Primeiro projeto individual do XP38 [Hacker] - Gama Academy.
 **Tarefa 2 -** Coletar conteúdo de comunicação(imagens e textos).
 
 **Tarefa 3 -** HTML
-3.1. Menu de navegação - Header (presente em todas as páginas).
-3.2. Footer (presente em todas as páginas).
-3.3. Páginas:
+**3.1.** Menu de navegação - Header (presente em todas as páginas).
+**3.2.** Footer (presente em todas as páginas).
+**3.3.** Páginas:
 a) Principal;
 b) Produtos;
 c) Informações Institucionais.
