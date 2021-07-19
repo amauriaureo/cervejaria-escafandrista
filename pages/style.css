@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: #a09038;
 }
 
 ul {
@@ -10,4 +11,15 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+body {
+    background-image:url(imagens/banner2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #d3cfcc;
+    /* height: -50px; */
+
+    /* background-color:linear-gradient(90deg, #d3cfcc, black); */
+    background-size: cover;
 }
