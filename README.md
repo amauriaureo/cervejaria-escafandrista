@@ -61,9 +61,9 @@ OBS: As páginas devem ser navegáveis.
 
 - [x] **Tarefa 1** - 2 pontos - 15 de julho.
 - [x] **Tarefa 2** - 1 pontos - 16 de julho.
-- [ ] **Tarefa 3** - 5 pontos - 18 de julho.
-- [ ] **Tarefa 4** - 8 pontos - 20 de julho.
-- [ ] **Tarefa 5** - 13 pontos - 22 de julho.
+- [x] **Tarefa 3** - 5 pontos - 18 de julho.
+- [x] **Tarefa 4** - 8 pontos - 20 de julho.
+- [x] **Tarefa 5** - 13 pontos - 22 de julho.
 
 [topo](https://github.com/amauriaureo/cervejaria-escafandrista#cervejaria-escafandrista)
 
