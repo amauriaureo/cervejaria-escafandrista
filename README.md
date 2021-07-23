@@ -9,7 +9,7 @@ Logo abaixo da imagem há uma organização de algumas etapas do Scrum (fiz com 
 * [Pontuação de cada tarefa e conclusão](https://github.com/amauriaureo/cervejaria-escafandrista#pontua%C3%A7%C3%A3o-e-estimativa-de-conclus%C3%A3o)
 
 
-<img src="/cervejaria-bootstrap/institucional/title2.png" alt="Logo Cervejaria Escafandrista"/>
+<img src="./ska.png" alt="Logo Cervejaria Escafandrista"/>
 
 ## Product Goal
 
